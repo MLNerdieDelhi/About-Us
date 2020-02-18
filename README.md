@@ -29,5 +29,14 @@ Create visually attractive posters, stunning designs and graphics to attract and
 
 ## Social Media Handles:
 Facebook: https://www.facebook.com/MLNerdieDelhi
+
 LinkedIn: https://www.linkedin.com/company/ml-nerdie-delhi
 
+Twitter: @mlnerdiedelhi
+
+Global Wesbite: https://www.mlnerdie.com
+
+Local Chapter Website coming soon!
+
+
+P
