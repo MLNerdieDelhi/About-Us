@@ -10,6 +10,9 @@ MLNerdie is an open organization working towards the goal of making machine lear
 # Mission
 At MLNerdie, we hope to build a strong distillable machine learning culture promoting interdisciplinary collaboration. One of our core goals at MLNerdie is to provide a platform to early career researchers and academics to talk about their research to a wider audience and invite industry collaborations for the same.
 
+# Events
+We hold monthly offline events in Delhi. To be updated about our events, follow our social media pages. Links provided at the end of this document.
+
 # Join us!
 Be part of our team that explores, discovers and creates new, ideas pertaining to the exciting field of machine learning. Write to us at delhi@mlnerdie.com
 
@@ -38,5 +41,5 @@ Global Wesbite: https://www.mlnerdie.com
 
 Local Chapter Website coming soon!
 
-
-P
+# Connect with us
+If you have any suggestions, advice or doubts for us or have an event idea or collaboration request, please feel free to shoot an email at delhi@mlnerdie.com . We would love to talk to you!
